@@ -1,3 +1,5 @@
+[English](./README.md) | [Español](./README.es.md)
+
 # Chrome Default Mode Configuration Scripts
 
 ## 🚀 Overview
