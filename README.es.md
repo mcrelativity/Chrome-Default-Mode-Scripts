@@ -1,3 +1,5 @@
+[English](./README.md) | [Español](./README.es.md)
+
 # Scripts de Configuración de Modo Predeterminado para Chrome
 
 ## 🚀 Descripción General
